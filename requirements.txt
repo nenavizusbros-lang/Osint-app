@@ -1,0 +1,9 @@
+streamlit
+httpx
+trafilatura
+duckduckgo-search
+python-whois
+dnspython
+phonenumbers
+Pillow
+PicImageSearch
